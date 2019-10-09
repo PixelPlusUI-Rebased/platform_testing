@@ -55,7 +55,6 @@ platform_tests += \
     InternalLocTestApp \
     JankMicroBenchmarkTests \
     long_trace_config.textproto \
-    LauncherRotationStressTest \
     MemoryUsage \
     MultiDexLegacyTestApp \
     MultiDexLegacyTestApp2 \
